@@ -1,4 +1,3 @@
-# TODO: Write documentation for `Tuntap`
 class TunTap
 	VERSION = "0.1.0"
 
@@ -11,3 +10,5 @@ class TunTap
 	end
 end
 
+require "./c/*"
+require "./tuntap/*"
