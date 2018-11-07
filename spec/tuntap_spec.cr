@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe Tuntap do
+describe TunTap do
   # TODO: Write tests
 
   it "works" do
